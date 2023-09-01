@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Balises Hn Check Reviews",
+  "version": "1.4",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "clipboardWrite"
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "description": "Balises Hn Check Reviews : Copiez le balisage Hn des pages web."
+}
